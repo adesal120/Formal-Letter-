@@ -1,0 +1,22 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.Right-Address{
+    text-align: right;
+    color: blue;
+}
+
+.Left-Address{
+    text-align: left;
+    color: blue;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.Signature{
+    text-align: right;
+    color: red;
+}
